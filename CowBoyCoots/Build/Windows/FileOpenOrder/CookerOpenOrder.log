@@ -1,0 +1,1338 @@
+"../../../Engine/Content/EditorResources/S_Actor.ubulk" 0
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 1
+"../../../Engine/Content/EditorResources/S_Actor.uexp" 2
+"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uasset" 3
+"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uexp" 4
+"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 5
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 6
+"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 7
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 8
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uexp" 9
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 10
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp" 11
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 12
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp" 13
+"../../../Engine/Content/EditorResources/S_Trigger.ubulk" 14
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 15
+"../../../Engine/Content/EditorResources/S_Trigger.uexp" 16
+"../../../Engine/Content/EditorResources/S_TriggerBox.uasset" 17
+"../../../Engine/Content/EditorResources/S_TriggerBox.uexp" 18
+"../../../Engine/Content/EditorResources/S_TriggerCapsule.uasset" 19
+"../../../Engine/Content/EditorResources/S_TriggerCapsule.uexp" 20
+"../../../Engine/Content/EditorResources/S_TriggerSphere.uasset" 21
+"../../../Engine/Content/EditorResources/S_TriggerSphere.uexp" 22
+"../../../Engine/Content/EngineMeshes/Sphere.ubulk" 23
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 24
+"../../../Engine/Content/EngineMeshes/Sphere.uexp" 25
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 26
+"../../../Engine/Content/EngineResources/GradientTexture0.uexp" 27
+"../../../Engine/Content/EngineResources/Black.uasset" 28
+"../../../Engine/Content/EngineResources/Black.uexp" 29
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 30
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 31
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 32
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 33
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 34
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 35
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 36
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.ubulk" 37
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 38
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 39
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.ubulk" 40
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 41
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 42
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.ubulk" 43
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 44
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp" 45
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 46
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uexp" 47
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 48
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp" 49
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.ubulk" 50
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 51
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp" 52
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 53
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp" 54
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 55
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp" 56
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.ubulk" 57
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 58
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp" 59
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.ubulk" 60
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 61
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp" 62
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.ubulk" 63
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 64
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp" 65
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.ubulk" 66
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 67
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp" 68
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.ubulk" 69
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 70
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp" 71
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.ubulk" 72
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 73
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp" 74
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 75
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 76
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 77
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 78
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 79
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 80
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 81
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 82
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 83
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 84
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.ubulk" 85
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 86
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 87
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 88
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 89
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 90
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 91
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 92
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 93
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset" 94
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uexp" 95
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.ubulk" 96
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 97
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uexp" 98
+"../../../Engine/Content/EditorResources/S_Solver.ubulk" 99
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 100
+"../../../Engine/Content/EditorResources/S_Solver.uexp" 101
+"../../../Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.ubulk" 102
+"../../../Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.uasset" 103
+"../../../Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.uexp" 104
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 105
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 106
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 107
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp" 108
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 109
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp" 110
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 111
+"../../../Engine/Content/EngineMaterials/MiniFont.uexp" 112
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 113
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp" 114
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 115
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 116
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 117
+"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uasset" 118
+"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uexp" 119
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 120
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 121
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 122
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 123
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 124
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 125
+"../../../Engine/Content/BasicShapes/Sphere.ubulk" 126
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 127
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 128
+"../../../Engine/Content/BasicShapes/Cylinder.ubulk" 129
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 130
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 131
+"../../../Engine/Content/BasicShapes/Cone.ubulk" 132
+"../../../Engine/Content/BasicShapes/Cone.uasset" 133
+"../../../Engine/Content/BasicShapes/Cone.uexp" 134
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 135
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 136
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 137
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 138
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 139
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 140
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 141
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 142
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 143
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 144
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uexp" 145
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 146
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uexp" 147
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 148
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uexp" 149
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 150
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 151
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 152
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 153
+"../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset" 154
+"../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uexp" 155
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 156
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 157
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 158
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 159
+"../../../Engine/Content/EditorResources/EmptyActor.uexp" 160
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 161
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 162
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 163
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uexp" 164
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 165
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 166
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 167
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 168
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 169
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 170
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 171
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 172
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 173
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 174
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 175
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 176
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 177
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 178
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 179
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 180
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 181
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 182
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 183
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 184
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 185
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 186
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 187
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 188
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 189
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 190
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 191
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 192
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 193
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 194
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 195
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 196
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 197
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 198
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 199
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 200
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 201
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 202
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 203
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 204
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 205
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 206
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 207
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 208
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 209
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 210
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 211
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 212
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 213
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 214
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 215
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 216
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 217
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 218
+"../../../Engine/Content/EngineMaterials/STBlueNoise_vec2_128x128x64.uasset" 219
+"../../../Engine/Content/EngineMaterials/STBlueNoise_vec2_128x128x64.uexp" 220
+"../../../Engine/Content/EngineMaterials/STBlueNoise_scalar_128x128x64.uasset" 221
+"../../../Engine/Content/EngineMaterials/STBlueNoise_scalar_128x128x64.uexp" 222
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 223
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 224
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" 225
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uexp" 226
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset" 227
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uexp" 228
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 229
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uexp" 230
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 231
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uexp" 232
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 233
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp" 234
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 235
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 236
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 237
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 238
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 239
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 240
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 241
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 242
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 243
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uasset" 244
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uexp" 245
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uasset" 246
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uexp" 247
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uasset" 248
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uexp" 249
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uasset" 250
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uexp" 251
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uasset" 252
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uexp" 253
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uasset" 254
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uexp" 255
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset" 256
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uexp" 257
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset" 258
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uexp" 259
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 260
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 261
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 262
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 263
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 264
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 265
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uasset" 266
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uexp" 267
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 268
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 269
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uasset" 270
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uexp" 271
+"../../../Engine/Content/EngineMaterials/FlattenMaterial.uasset" 272
+"../../../Engine/Content/EngineMaterials/FlattenMaterial.uexp" 273
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 274
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 275
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 276
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 277
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 278
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 279
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 280
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 281
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 282
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 283
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 284
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 285
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 286
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 287
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 288
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 289
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 290
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 291
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 292
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uasset" 293
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uexp" 294
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 295
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 296
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 297
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 298
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset" 299
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uexp" 300
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 301
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 302
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 303
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 304
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 305
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 306
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 307
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 308
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 309
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 310
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 311
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 312
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 313
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 314
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 315
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 316
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 317
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 318
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 319
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 320
+"../../../Engine/Content/EngineSounds/Master.uasset" 321
+"../../../Engine/Content/EngineSounds/Master.uexp" 322
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 323
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 324
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 325
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 326
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 327
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 328
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 329
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 330
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 331
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 332
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 333
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 334
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 335
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 336
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 337
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 338
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 339
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 340
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 341
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 342
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 343
+"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset" 344
+"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uexp" 345
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset" 346
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uexp" 347
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.ubulk" 348
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset" 349
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uexp" 350
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.ubulk" 351
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset" 352
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uexp" 353
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.ubulk" 354
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset" 355
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uexp" 356
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.ubulk" 357
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uasset" 358
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uexp" 359
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.ubulk" 360
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uasset" 361
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uexp" 362
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.ubulk" 363
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uasset" 364
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uexp" 365
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.ubulk" 366
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uasset" 367
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uexp" 368
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.ubulk" 369
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uasset" 370
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uexp" 371
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.ubulk" 372
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset" 373
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uexp" 374
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.ubulk" 375
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uasset" 376
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uexp" 377
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.ubulk" 378
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset" 379
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uexp" 380
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.ubulk" 381
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset" 382
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uexp" 383
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.ubulk" 384
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset" 385
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uexp" 386
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.ubulk" 387
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset" 388
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uexp" 389
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.ubulk" 390
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset" 391
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uexp" 392
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.ubulk" 393
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uasset" 394
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uexp" 395
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.ubulk" 396
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uasset" 397
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uexp" 398
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.ubulk" 399
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uasset" 400
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uexp" 401
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.ubulk" 402
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uasset" 403
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uexp" 404
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.ubulk" 405
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uasset" 406
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uexp" 407
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.ubulk" 408
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uasset" 409
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uexp" 410
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.ubulk" 411
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uasset" 412
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uexp" 413
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.ubulk" 414
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uasset" 415
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uexp" 416
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.ubulk" 417
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uasset" 418
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uexp" 419
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.ubulk" 420
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uasset" 421
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uexp" 422
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.ubulk" 423
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset" 424
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uexp" 425
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.ubulk" 426
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset" 427
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uexp" 428
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.ubulk" 429
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uasset" 430
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uexp" 431
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.ubulk" 432
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset" 433
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uexp" 434
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.ubulk" 435
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset" 436
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uexp" 437
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.ubulk" 438
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uasset" 439
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uexp" 440
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.ubulk" 441
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uasset" 442
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uexp" 443
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.ubulk" 444
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uasset" 445
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uexp" 446
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.ubulk" 447
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uasset" 448
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uexp" 449
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.ubulk" 450
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uasset" 451
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uexp" 452
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.ubulk" 453
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset" 454
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uexp" 455
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.ubulk" 456
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset" 457
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uexp" 458
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.ubulk" 459
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset" 460
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uexp" 461
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.ubulk" 462
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset" 463
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uexp" 464
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.ubulk" 465
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset" 466
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uexp" 467
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.ubulk" 468
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset" 469
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uexp" 470
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.ubulk" 471
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset" 472
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uexp" 473
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.ubulk" 474
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uasset" 475
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uexp" 476
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.ubulk" 477
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset" 478
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uexp" 479
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.ubulk" 480
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset" 481
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uexp" 482
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.ubulk" 483
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset" 484
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uexp" 485
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.ubulk" 486
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset" 487
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uexp" 488
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.ubulk" 489
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset" 490
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uexp" 491
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.ubulk" 492
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset" 493
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uexp" 494
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.ubulk" 495
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset" 496
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uexp" 497
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.ubulk" 498
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset" 499
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uexp" 500
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.ubulk" 501
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset" 502
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uexp" 503
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.ubulk" 504
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset" 505
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uexp" 506
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.ubulk" 507
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset" 508
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uexp" 509
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uasset" 510
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uexp" 511
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset" 512
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uexp" 513
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/BP_CootsController.uasset" 514
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/BP_CootsController.uexp" 515
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/BP_CootsGamemode.uasset" 516
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/BP_CootsGamemode.uexp" 517
+"../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uasset" 518
+"../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uexp" 519
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uasset" 520
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uexp" 521
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uasset" 522
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uexp" 523
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uasset" 524
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uexp" 525
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uasset" 526
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uexp" 527
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uasset" 528
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uexp" 529
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/UnlitMaterial.uasset" 530
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/UnlitMaterial.uexp" 531
+"../../../Engine/Content/EngineMaterials/DefaultNormal.ubulk" 532
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 533
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uexp" 534
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrScalarFunction.uasset" 535
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrScalarFunction.uexp" 536
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrLinearColorFunction.uasset" 537
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrLinearColorFunction.uexp" 538
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrColorFunction.uasset" 539
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/MapOrColorFunction.uexp" 540
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/CommonMaterial.uasset" 541
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/CommonMaterial.uexp" 542
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceFunction.uasset" 543
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceFunction.uexp" 544
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ThinTranslucentMaterial.uasset" 545
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ThinTranslucentMaterial.uexp" 546
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/SubsurfaceMaterial.uasset" 547
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/SubsurfaceMaterial.uexp" 548
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/SheenMaterial.uasset" 549
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/SheenMaterial.uexp" 550
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 551
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 552
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PhongSurfaceMaterial.uasset" 553
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PhongSurfaceMaterial.uexp" 554
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceMaterial.uasset" 555
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/PBRSurfaceMaterial.uexp" 556
+"../../../Engine/Content/EngineMaterials/FlatNormal.uasset" 557
+"../../../Engine/Content/EngineMaterials/FlatNormal.uexp" 558
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_OrenNayerView.uasset" 559
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_OrenNayerView.uexp" 560
+"../../../Engine/Content/EditorLandscapeResources/WhiteSquareTexture.uasset" 561
+"../../../Engine/Content/EditorLandscapeResources/WhiteSquareTexture.uexp" 562
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_SchlickApprox.uasset" 563
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_SchlickApprox.uexp" 564
+"../../../Engine/Plugins/Interchange/Runtime/Content/Utilities/New_LUT.uasset" 565
+"../../../Engine/Plugins/Interchange/Runtime/Content/Utilities/New_LUT.uexp" 566
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uasset" 567
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uexp" 568
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_Iridescence.uasset" 569
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MF_Iridescence.uexp" 570
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/OrenNayerMaterial.uasset" 571
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/OrenNayerMaterial.uexp" 572
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/LambertSurfaceMaterial.uasset" 573
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/LambertSurfaceMaterial.uexp" 574
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ClearCoatMaterial.uasset" 575
+"../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ClearCoatMaterial.uexp" 576
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Gray_Linear.uasset" 577
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Gray_Linear.uexp" 578
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Black_srgb.uasset" 579
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Black_srgb.uexp" 580
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateV2.uasset" 581
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateV2.uexp" 582
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransformUVs.uasset" 583
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransformUVs.uexp" 584
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_srgb.uasset" 585
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_srgb.uexp" 586
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_BaseColor.uasset" 587
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_BaseColor.uexp" 588
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_DiffuseSpecGloss.uasset" 589
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_DiffuseSpecGloss.uexp" 590
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_Linear.uasset" 591
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_White_Linear.uexp" 592
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_MetallicRoughness.uasset" 593
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_MetallicRoughness.uexp" 594
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Transmission.uasset" 595
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Transmission.uexp" 596
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Occlusion.uasset" 597
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Occlusion.uexp" 598
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 599
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uexp" 600
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 601
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uexp" 602
+"../../../Engine/Plugins/Interchange/Runtime/Content/Utilities/T_Bayer64_Grayscale_64px.uasset" 603
+"../../../Engine/Plugins/Interchange/Runtime/Content/Utilities/T_Bayer64_Grayscale_64px.uexp" 604
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Temporal_Blur.uasset" 605
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Temporal_Blur.uexp" 606
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Specular.uasset" 607
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Specular.uexp" 608
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_IOR.uasset" 609
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_IOR.uexp" 610
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Fresnel_DS.uasset" 611
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Fresnel_DS.uexp" 612
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 613
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uexp" 614
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 615
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uexp" 616
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateNormals_TS.uasset" 617
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_RotateNormals_TS.uexp" 618
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Generic_N.uasset" 619
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/Textures/T_Generic_N.uexp" 620
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Normals.uasset" 621
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Normals.uexp" 622
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uasset" 623
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uexp" 624
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_PerceivedBrightness.uasset" 625
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_PerceivedBrightness.uexp" 626
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_SpecGlossToMetalRoughness.uasset" 627
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_SpecGlossToMetalRoughness.uexp" 628
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Transmission.uasset" 629
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Transmission.uexp" 630
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Transmission_TS.uasset" 631
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Transmission_TS.uexp" 632
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Transmission.uasset" 633
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Transmission.uexp" 634
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Clearcoat.uasset" 635
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Clearcoat.uexp" 636
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Emissive.uasset" 637
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Emissive.uexp" 638
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Translucent.uasset" 639
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Translucent.uexp" 640
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_TS.uasset" 641
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_TS.uexp" 642
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat_TS.uasset" 643
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat_TS.uexp" 644
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat.uasset" 645
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat.uexp" 646
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent.uasset" 647
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Translucent.uexp" 648
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Opaque.uasset" 649
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Opaque.uexp" 650
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_TS.uasset" 651
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_TS.uexp" 652
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Sheen.uasset" 653
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_Sheen.uexp" 654
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/FuzzyShading.uasset" 655
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/FuzzyShading.uexp" 656
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Sheen.uasset" 657
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Sheen.uexp" 658
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_Sheen_TS.uasset" 659
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_Sheen_TS.uexp" 660
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_Sheen.uasset" 661
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_Sheen.uexp" 662
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat_TS.uasset" 663
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat_TS.uexp" 664
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat.uasset" 665
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat.uexp" 666
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque.uasset" 667
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_SG/MI_Opaque.uexp" 668
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Transmission_TS.uasset" 669
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Transmission_TS.uexp" 670
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Transmission.uasset" 671
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Transmission.uexp" 672
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_TS.uasset" 673
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_TS.uexp" 674
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat_TS.uasset" 675
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat_TS.uexp" 676
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat.uasset" 677
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat.uexp" 678
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent.uasset" 679
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Translucent.uexp" 680
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Unlit.uasset" 681
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/M_Unlit.uexp" 682
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Unlit_TS.uasset" 683
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Unlit_TS.uexp" 684
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Unlit.uasset" 685
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Unlit.uexp" 686
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_TS.uasset" 687
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_TS.uexp" 688
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Sheen_TS.uasset" 689
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Sheen_TS.uexp" 690
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Sheen.uasset" 691
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_Sheen.uexp" 692
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat_TS.uasset" 693
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat_TS.uexp" 694
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat.uasset" 695
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat.uexp" 696
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque.uasset" 697
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialInstances_MR/MI_Opaque.uexp" 698
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 699
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 700
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/V2/ObjectScale.uasset" 701
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/V2/ObjectScale.uexp" 702
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 703
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 704
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransmissionOpacity.uasset" 705
+"../../../Engine/Plugins/Interchange/Runtime/Content/gltf/MaterialFunctions/MF_TransmissionOpacity.uexp" 706
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_Transmission.uasset" 707
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_Transmission.uexp" 708
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_StandardSurface.uasset" 709
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_StandardSurface.uexp" 710
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_TransmissionSurface.uasset" 711
+"../../../Engine/Plugins/Interchange/Runtime/Content/Functions/MX_TransmissionSurface.uexp" 712
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 713
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 714
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 715
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 716
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 717
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 718
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 719
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 720
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 721
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 722
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 723
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 724
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 725
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 726
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 727
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 728
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 729
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 730
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 731
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 732
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 733
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 734
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 735
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 736
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 737
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 738
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 739
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 740
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 741
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 742
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 743
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 744
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 745
+"../../../Engine/Content/Maps/Entry.uexp" 746
+"../../../Engine/Content/Maps/Entry.umap" 747
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 748
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 749
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/CootsGameInstance.uasset" 750
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/CootsGameInstance.uexp" 751
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Levels/TransitionLevel.uexp" 752
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Levels/TransitionLevel.umap" 753
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Title/OpeningPrompt/BeginHover.uasset" 754
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Title/OpeningPrompt/BeginHover.uexp" 755
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Title/OpeningPrompt/BeginIdle.uasset" 756
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Title/OpeningPrompt/BeginIdle.uexp" 757
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Title/OpeningPrompt/ExitHover.uasset" 758
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Title/OpeningPrompt/ExitHover.uexp" 759
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Title/OpeningPrompt/Are_you_ready.uasset" 760
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Title/OpeningPrompt/Are_you_ready.uexp" 761
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Title/OpeningPrompt/ExitIdle.uasset" 762
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Title/OpeningPrompt/ExitIdle.uexp" 763
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Title/OpeningPrompt.uasset" 764
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Title/OpeningPrompt.uexp" 765
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Levels/Title.uexp" 766
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Levels/Title.umap" 767
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/LoadingScreen.uasset" 768
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/LoadingScreen.uexp" 769
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/Music.uasset" 770
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/Music.uexp" 771
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX.uasset" 772
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX.uexp" 773
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SoundMixer.uasset" 774
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SoundMixer.uexp" 775
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Levels/PersistentLevel.uexp" 776
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Levels/PersistentLevel.umap" 777
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Videos/Cutscene1Player.uasset" 778
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Videos/Cutscene1Player.uexp" 779
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Videos/CC_CutsceneATestAudio.ubulk" 780
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Videos/CC_CutsceneATestAudio.uasset" 781
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Videos/CC_CutsceneATestAudio.uexp" 782
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Videos/Cutscene1Tex.uasset" 783
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Videos/Cutscene1Tex.uexp" 784
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Videos/Cutscene1Mat.uasset" 785
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Videos/Cutscene1Mat.uexp" 786
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Videos/Cutscene1.uasset" 787
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Videos/Cutscene1.uexp" 788
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/OpeningCutscene.uasset" 789
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/OpeningCutscene.uexp" 790
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Levels/OpeningCutscene.uexp" 791
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Levels/OpeningCutscene.umap" 792
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Videos/CC_CutsceneB_Audio.ubulk" 793
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Videos/CC_CutsceneB_Audio.uasset" 794
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Videos/CC_CutsceneB_Audio.uexp" 795
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/FinalExitHover.uasset" 796
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/FinalExitHover.uexp" 797
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/FinalExitIdle.uasset" 798
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/FinalExitIdle.uexp" 799
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Videos/Cutscene2.uasset" 800
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Videos/Cutscene2.uexp" 801
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/ClosingCutscene.uasset" 802
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/ClosingCutscene.uexp" 803
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Levels/ClosingCutscene.uexp" 804
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Levels/ClosingCutscene.umap" 805
+"../../../Engine/Content/BasicShapes/Cube.ubulk" 806
+"../../../Engine/Content/BasicShapes/Cube.uasset" 807
+"../../../Engine/Content/BasicShapes/Cube.uexp" 808
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/DoggorRollSound.ubulk" 809
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/DoggorRollSound.uasset" 810
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/DoggorRollSound.uexp" 811
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Doggor/CC_Doggor_GameplaySprites/CC_Doggor_Idle_Down.uasset" 812
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Doggor/CC_Doggor_GameplaySprites/CC_Doggor_Idle_Down.uexp" 813
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Doggor/CC_Doggor_GameplaySprites/CC_Doggor_Idle_Down_Sprite_0.uasset" 814
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Doggor/CC_Doggor_GameplaySprites/CC_Doggor_Idle_Down_Sprite_0.uexp" 815
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Doggor/CC_Doggor_GameplaySprites/CC_Doggor_Idle_Down_Sprite_1.uasset" 816
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Doggor/CC_Doggor_GameplaySprites/CC_Doggor_Idle_Down_Sprite_1.uexp" 817
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Doggor/CC_Doggor_GameplaySprites/Doggor_Idle.uasset" 818
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Doggor/CC_Doggor_GameplaySprites/Doggor_Idle.uexp" 819
+"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 820
+"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uexp" 821
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Sprites/CC_Coots_FallingStatic_CustomRes_Spritesheet.uasset" 822
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Sprites/CC_Coots_FallingStatic_CustomRes_Spritesheet.uexp" 823
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Sprites/CC_Coots_FallingStatic_CustomRes_Spritesheet_Sprite_0.uasset" 824
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Sprites/CC_Coots_FallingStatic_CustomRes_Spritesheet_Sprite_0.uexp" 825
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Sprites/CC_Coots_FallingStatic_CustomRes_Spritesheet_Sprite_1.uasset" 826
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Sprites/CC_Coots_FallingStatic_CustomRes_Spritesheet_Sprite_1.uexp" 827
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Falling.uasset" 828
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Falling.uexp" 829
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/CootsFallingNoiseAndSplat.ubulk" 830
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/CootsFallingNoiseAndSplat.uasset" 831
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/CootsFallingNoiseAndSplat.uexp" 832
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Bald/Coots_NoHat_Idle_Up.uasset" 833
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Bald/Coots_NoHat_Idle_Up.uexp" 834
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Bald/Coots_NoHat_Idle_Up_Sprite_0.uasset" 835
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Bald/Coots_NoHat_Idle_Up_Sprite_0.uexp" 836
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Bald/Coots_NoHat_Idle_Up_Sprite_1.uasset" 837
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Bald/Coots_NoHat_Idle_Up_Sprite_1.uexp" 838
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Bald/Bald_Up.uasset" 839
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Bald/Bald_Up.uexp" 840
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/DoggorSpawnNoise.ubulk" 841
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/DoggorSpawnNoise.uasset" 842
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/DoggorSpawnNoise.uexp" 843
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Doggor/CC_Doggor_GameplaySprites/CC_Doggor_RolyPoly.uasset" 844
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Doggor/CC_Doggor_GameplaySprites/CC_Doggor_RolyPoly.uexp" 845
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Doggor/CC_Doggor_GameplaySprites/CC_Doggor_RolyPoly_Sprite_0.uasset" 846
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Doggor/CC_Doggor_GameplaySprites/CC_Doggor_RolyPoly_Sprite_0.uexp" 847
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Doggor/CC_Doggor_GameplaySprites/CC_Doggor_RolyPoly_Sprite_1.uasset" 848
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Doggor/CC_Doggor_GameplaySprites/CC_Doggor_RolyPoly_Sprite_1.uexp" 849
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Doggor/CC_Doggor_GameplaySprites/CC_Doggor_RolyPoly_Sprite_2.uasset" 850
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Doggor/CC_Doggor_GameplaySprites/CC_Doggor_RolyPoly_Sprite_2.uexp" 851
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Doggor/CC_Doggor_GameplaySprites/CC_Doggor_RolyPoly_Sprite_3.uasset" 852
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Doggor/CC_Doggor_GameplaySprites/CC_Doggor_RolyPoly_Sprite_3.uexp" 853
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Doggor/CC_Doggor_GameplaySprites/CC_Doggor_RolyPoly_Sprite_4.uasset" 854
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Doggor/CC_Doggor_GameplaySprites/CC_Doggor_RolyPoly_Sprite_4.uexp" 855
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Doggor/CC_Doggor_GameplaySprites/Doggor_Roll.uasset" 856
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Doggor/CC_Doggor_GameplaySprites/Doggor_Roll.uexp" 857
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Sprites/CC_Coot_Splat.uasset" 858
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Sprites/CC_Coot_Splat.uexp" 859
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Sprites/CC_Coot_Splat_Sprite.uasset" 860
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Sprites/CC_Coot_Splat_Sprite.uexp" 861
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Splat.uasset" 862
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Splat.uexp" 863
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Bald/Coots_NoHat_Idle_Down.uasset" 864
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Bald/Coots_NoHat_Idle_Down.uexp" 865
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Bald/Coots_NoHat_Idle_Down_Sprite_0.uasset" 866
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Bald/Coots_NoHat_Idle_Down_Sprite_0.uexp" 867
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Bald/Coots_NoHat_Idle_Down_Sprite_1.uasset" 868
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Bald/Coots_NoHat_Idle_Down_Sprite_1.uexp" 869
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Bald/Bald_Down.uasset" 870
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Bald/Bald_Down.uexp" 871
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/Cinematics/Opening.uasset" 872
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/Cinematics/Opening.uexp" 873
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Bald/Coots_NoHat_Idle_Left.uasset" 874
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Bald/Coots_NoHat_Idle_Left.uexp" 875
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Bald/Coots_NoHat_Idle_Left_Sprite_0.uasset" 876
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Bald/Coots_NoHat_Idle_Left_Sprite_0.uexp" 877
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Bald/Coots_NoHat_Idle_Left_Sprite_1.uasset" 878
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Bald/Coots_NoHat_Idle_Left_Sprite_1.uexp" 879
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Bald/Bald_Left.uasset" 880
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Bald/Bald_Left.uexp" 881
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/Cinematics/Opening_2.uasset" 882
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/Cinematics/Opening_2.uexp" 883
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 884
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uexp" 885
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset" 886
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uexp" 887
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedLitSpriteMaterial.uasset" 888
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedLitSpriteMaterial.uexp" 889
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Warnings/RegularWarningIndicatorSpritesheet.uasset" 890
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Warnings/RegularWarningIndicatorSpritesheet.uexp" 891
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Warnings/RegularWarningIndicatorSpritesheet_Sprite_0.uasset" 892
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Warnings/RegularWarningIndicatorSpritesheet_Sprite_0.uexp" 893
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Warnings/RegularWarningIndicatorSpritesheet_Sprite_1.uasset" 894
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Warnings/RegularWarningIndicatorSpritesheet_Sprite_1.uexp" 895
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Warnings/RegularWarningIndicatorSpritesheet1.uasset" 896
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Warnings/RegularWarningIndicatorSpritesheet1.uexp" 897
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/BP_Warning.uasset" 898
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/BP_Warning.uexp" 899
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/RatioedCharacterSprites/Coots/CC_DE_R_Coots_Standard_1.uasset" 900
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/RatioedCharacterSprites/Coots/CC_DE_R_Coots_Standard_1.uexp" 901
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/RatioedCharacterSprites/Coots/CC_DE_R_Coots_Standard_2.uasset" 902
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/RatioedCharacterSprites/Coots/CC_DE_R_Coots_Standard_2.uexp" 903
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/DE_UI/DE_NameplateHolder.uasset" 904
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/DE_UI/DE_NameplateHolder.uexp" 905
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/DE_UI/DE_MainContainer.uasset" 906
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/DE_UI/DE_MainContainer.uexp" 907
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/PortraitBoundaries/BoneTwoPortraitBoundary.uasset" 908
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/PortraitBoundaries/BoneTwoPortraitBoundary.uexp" 909
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Fonts/dogicapixel.uexp" 910
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Fonts/dogicapixel.uasset" 911
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Fonts/dogicapixel.ufont" 912
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Fonts/dogicapixel_Font.uasset" 913
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Fonts/dogicapixel_Font.uexp" 914
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/UIMovement_1.ubulk" 915
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/UIMovement_1.uasset" 916
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/UIMovement_1.uexp" 917
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Dialogue.uasset" 918
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Dialogue.uexp" 919
+"../../../Engine/Content/BasicShapes/Plane.ubulk" 920
+"../../../Engine/Content/BasicShapes/Plane.uasset" 921
+"../../../Engine/Content/BasicShapes/Plane.uexp" 922
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/Footsteps/Portal_Open.ubulk" 923
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/Footsteps/Portal_Open.uasset" 924
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/Footsteps/Portal_Open.uexp" 925
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/Portal_Close.ubulk" 926
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/Portal_Close.uasset" 927
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/Portal_Close.uexp" 928
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_CameraShake/HitShake.uasset" 929
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_CameraShake/HitShake.uexp" 930
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/CootsDamageAndHit.ubulk" 931
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/CootsDamageAndHit.uasset" 932
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/CootsDamageAndHit.uexp" 933
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_CameraShake/DeathShake.uasset" 934
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_CameraShake/DeathShake.uexp" 935
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Death/Images/CC_PauseScreen_ExitPassive.uasset" 936
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Death/Images/CC_PauseScreen_ExitPassive.uexp" 937
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/FastGunshot.ubulk" 938
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/FastGunshot.uasset" 939
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/FastGunshot.uexp" 940
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/BulletImpactNoise.ubulk" 941
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/BulletImpactNoise.uasset" 942
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/BulletImpactNoise.uexp" 943
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Bullets/CC_FastRifleRound.uasset" 944
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Bullets/CC_FastRifleRound.uexp" 945
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Bullets/CC_FastRifleRound_Sprite.uasset" 946
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Bullets/CC_FastRifleRound_Sprite.uexp" 947
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Objects/2DEnv_Cactus_ExportSheet_1.uasset" 948
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Objects/2DEnv_Cactus_ExportSheet_1.uexp" 949
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Objects/2DEnv_Cactus_ExportSheet_1_Sprite.uasset" 950
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Objects/2DEnv_Cactus_ExportSheet_1_Sprite.uexp" 951
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/Obstacles/BP_Obstacle_Parent.uasset" 952
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/Obstacles/BP_Obstacle_Parent.uexp" 953
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/Projectiles/BP_Bullet_Speed.uasset" 954
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/Projectiles/BP_Bullet_Speed.uexp" 955
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Bullets/Bullet.uasset" 956
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Bullets/Bullet.uexp" 957
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Bullets/Bullet_Sprite.uasset" 958
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Bullets/Bullet_Sprite.uexp" 959
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/Projectiles/BP_Bullet_Parent.uasset" 960
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/Projectiles/BP_Bullet_Parent.uexp" 961
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Warnings/WarningSignAnimationSpritesheet.uasset" 962
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Warnings/WarningSignAnimationSpritesheet.uexp" 963
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Warnings/WarningSignAnimationSpritesheet_Sprite_0.uasset" 964
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Warnings/WarningSignAnimationSpritesheet_Sprite_0.uexp" 965
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Warnings/WarningSignAnimationSpritesheet_Sprite_2.uasset" 966
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Warnings/WarningSignAnimationSpritesheet_Sprite_2.uexp" 967
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Warnings/WarningSignAnimationSpritesheet_Sprite_4.uasset" 968
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Warnings/WarningSignAnimationSpritesheet_Sprite_4.uexp" 969
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Warnings/WarningSignAnimationSpritesheet_Sprite_5.uasset" 970
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Warnings/WarningSignAnimationSpritesheet_Sprite_5.uexp" 971
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Warnings/WarningSignAnimationSpritesheet_Sprite_7.uasset" 972
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Warnings/WarningSignAnimationSpritesheet_Sprite_7.uexp" 973
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Warnings/WarningSignBeeg.uasset" 974
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Warnings/WarningSignBeeg.uexp" 975
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/BP_WarningBeeg.uasset" 976
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/BP_WarningBeeg.uexp" 977
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/BulletGeneration/BP_BulletController.uasset" 978
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/BulletGeneration/BP_BulletController.uexp" 979
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/Dog_Bark_Sound_Regular.ubulk" 980
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/Dog_Bark_Sound_Regular.uasset" 981
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/Dog_Bark_Sound_Regular.uexp" 982
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/Dog_Bark_Sound_Low.ubulk" 983
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/Dog_Bark_Sound_Low.uasset" 984
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/Dog_Bark_Sound_Low.uexp" 985
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/StandardGunshot.ubulk" 986
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/StandardGunshot.uasset" 987
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/StandardGunshot.uexp" 988
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/BulletGeneration/BP_BulletGeneration.uasset" 989
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/BulletGeneration/BP_BulletGeneration.uexp" 990
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Death/Images/CC_PauseScreen_ExitHover.uasset" 991
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Death/Images/CC_PauseScreen_ExitHover.uexp" 992
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Death/Images/CC_PauseScreen_ContinuePassive.uasset" 993
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Death/Images/CC_PauseScreen_ContinuePassive.uexp" 994
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Death/Images/CC_DefeatScreen_Caclies.uasset" 995
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Death/Images/CC_DefeatScreen_Caclies.uexp" 996
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Death/Images/CC_PauseScreen_ContinueHover.uasset" 997
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Death/Images/CC_PauseScreen_ContinueHover.uexp" 998
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/UI_MenuConfirm.ubulk" 999
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/UI_MenuConfirm.uasset" 1000
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/UI_MenuConfirm.uexp" 1001
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/UI_MenuHoverTick.ubulk" 1002
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/UI_MenuHoverTick.uasset" 1003
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/UI_MenuHoverTick.uexp" 1004
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Death/Images/CC_DefeatScreen_ScreenDimmer.uasset" 1005
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Death/Images/CC_DefeatScreen_ScreenDimmer.uexp" 1006
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Death/DeathScreen.uasset" 1007
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Death/DeathScreen.uexp" 1008
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/CootsDeathNoiseTotal.ubulk" 1009
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/CootsDeathNoiseTotal.uasset" 1010
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/CootsDeathNoiseTotal.uexp" 1011
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Pause/Images/CC_PauseScreen_SliderButton.uasset" 1012
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Pause/Images/CC_PauseScreen_SliderButton.uexp" 1013
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Pause/Images/CC_PauseScreen_SliderRange.uasset" 1014
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Pause/Images/CC_PauseScreen_SliderRange.uexp" 1015
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Pause/Images/CC_PauseScreen_SFX_VolIndicator.uasset" 1016
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Pause/Images/CC_PauseScreen_SFX_VolIndicator.uexp" 1017
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Pause/Images/CC_PauseScreen_MUS_VolIndicator.uasset" 1018
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Pause/Images/CC_PauseScreen_MUS_VolIndicator.uexp" 1019
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Pause/Images/CC_PauseScreen_StaticBKG.uasset" 1020
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Pause/Images/CC_PauseScreen_StaticBKG.uexp" 1021
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Pause/PauseScreen.uasset" 1022
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Pause/PauseScreen.uexp" 1023
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/Coots_AS.uasset" 1024
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/Coots_AS.uexp" 1025
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Up/Coots_Run_Up_Spritesheet.uasset" 1026
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Up/Coots_Run_Up_Spritesheet.uexp" 1027
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Up/Coots_Run_Up_Spritesheet_Sprite_3.uasset" 1028
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Up/Coots_Run_Up_Spritesheet_Sprite_3.uexp" 1029
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Up/Coots_Run_Up_Spritesheet_Sprite_4.uasset" 1030
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Up/Coots_Run_Up_Spritesheet_Sprite_4.uexp" 1031
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Up/Coots_Run_Up_Spritesheet_Sprite_5.uasset" 1032
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Up/Coots_Run_Up_Spritesheet_Sprite_5.uexp" 1033
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Up/Coots_Run_Up_Spritesheet_Sprite_6.uasset" 1034
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Up/Coots_Run_Up_Spritesheet_Sprite_6.uexp" 1035
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Up/Coots_Run_Up_Loop.uasset" 1036
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Up/Coots_Run_Up_Loop.uexp" 1037
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Run_Up_Loop.uasset" 1038
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Run_Up_Loop.uexp" 1039
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Up/Coots_Run_Up_Spritesheet_Sprite_0.uasset" 1040
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Up/Coots_Run_Up_Spritesheet_Sprite_0.uexp" 1041
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Up/Coots_Run_Up_Spritesheet_Sprite_1.uasset" 1042
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Up/Coots_Run_Up_Spritesheet_Sprite_1.uexp" 1043
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Up/Coots_Run_Up_Spritesheet_Sprite_2.uasset" 1044
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Up/Coots_Run_Up_Spritesheet_Sprite_2.uexp" 1045
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Up/Coots_Run_Up_Begin.uasset" 1046
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Up/Coots_Run_Up_Begin.uexp" 1047
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Run_Up_Begin.uasset" 1048
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Run_Up_Begin.uexp" 1049
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Right/Coots_Run_Right_Spritesheet.uasset" 1050
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Right/Coots_Run_Right_Spritesheet.uexp" 1051
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Right/Coots_Run_Right_Spritesheet_Sprite_3.uasset" 1052
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Right/Coots_Run_Right_Spritesheet_Sprite_3.uexp" 1053
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Right/Coots_Run_Right_Spritesheet_Sprite_4.uasset" 1054
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Right/Coots_Run_Right_Spritesheet_Sprite_4.uexp" 1055
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Right/Coots_Run_Right_Spritesheet_Sprite_5.uasset" 1056
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Right/Coots_Run_Right_Spritesheet_Sprite_5.uexp" 1057
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Right/Coots_Run_Right_Spritesheet_Sprite_6.uasset" 1058
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Right/Coots_Run_Right_Spritesheet_Sprite_6.uexp" 1059
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Right/Coots_Run_Right_Loop.uasset" 1060
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Right/Coots_Run_Right_Loop.uexp" 1061
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Run_Right_Loop.uasset" 1062
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Run_Right_Loop.uexp" 1063
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Right/Coots_Run_Right_Spritesheet_Sprite_0.uasset" 1064
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Right/Coots_Run_Right_Spritesheet_Sprite_0.uexp" 1065
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Right/Coots_Run_Right_Spritesheet_Sprite_1.uasset" 1066
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Right/Coots_Run_Right_Spritesheet_Sprite_1.uexp" 1067
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Right/Coots_Run_Right_Spritesheet_Sprite_2.uasset" 1068
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Right/Coots_Run_Right_Spritesheet_Sprite_2.uexp" 1069
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Right/Coots_Run_Right_Begin.uasset" 1070
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Right/Coots_Run_Right_Begin.uexp" 1071
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Run_Right_Begin.uasset" 1072
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Run_Right_Begin.uexp" 1073
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Left/Coots_Run_Left_Spritesheet.uasset" 1074
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Left/Coots_Run_Left_Spritesheet.uexp" 1075
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Left/Coots_Run_Left_Spritesheet_Sprite_3.uasset" 1076
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Left/Coots_Run_Left_Spritesheet_Sprite_3.uexp" 1077
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Left/Coots_Run_Left_Spritesheet_Sprite_4.uasset" 1078
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Left/Coots_Run_Left_Spritesheet_Sprite_4.uexp" 1079
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Left/Coots_Run_Left_Spritesheet_Sprite_5.uasset" 1080
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Left/Coots_Run_Left_Spritesheet_Sprite_5.uexp" 1081
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Left/Coots_Run_Left_Spritesheet_Sprite_6.uasset" 1082
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Left/Coots_Run_Left_Spritesheet_Sprite_6.uexp" 1083
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Left/Coots_Run_Left_Loop.uasset" 1084
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Left/Coots_Run_Left_Loop.uexp" 1085
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Run_Left_Loop.uasset" 1086
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Run_Left_Loop.uexp" 1087
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Left/Coots_Run_Left_Begin.uasset" 1088
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Left/Coots_Run_Left_Begin.uexp" 1089
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Run_Left_Begin.uasset" 1090
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Run_Left_Begin.uexp" 1091
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Down/Coots_Run_Down_Spritesheet.uasset" 1092
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Down/Coots_Run_Down_Spritesheet.uexp" 1093
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Down/Coots_Run_Down_Spritesheet_Sprite_3.uasset" 1094
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Down/Coots_Run_Down_Spritesheet_Sprite_3.uexp" 1095
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Down/Coots_Run_Down_Spritesheet_Sprite_4.uasset" 1096
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Down/Coots_Run_Down_Spritesheet_Sprite_4.uexp" 1097
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Down/Coots_Run_Down_Spritesheet_Sprite_5.uasset" 1098
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Down/Coots_Run_Down_Spritesheet_Sprite_5.uexp" 1099
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Down/Coots_Run_Down_Spritesheet_Sprite_6.uasset" 1100
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Down/Coots_Run_Down_Spritesheet_Sprite_6.uexp" 1101
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Down/Coots-Run_Down_Loop.uasset" 1102
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Down/Coots-Run_Down_Loop.uexp" 1103
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Run_Down_Loop.uasset" 1104
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Run_Down_Loop.uexp" 1105
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Down/Coots_Run_Down_Spritesheet_Sprite_0.uasset" 1106
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Down/Coots_Run_Down_Spritesheet_Sprite_0.uexp" 1107
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Down/Coots_Run_Down_Spritesheet_Sprite_1.uasset" 1108
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Down/Coots_Run_Down_Spritesheet_Sprite_1.uexp" 1109
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Down/Coots_Run_Down_Spritesheet_Sprite_2.uasset" 1110
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Down/Coots_Run_Down_Spritesheet_Sprite_2.uexp" 1111
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Down/Coots_Run_Down_Begin.uasset" 1112
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Run/Down/Coots_Run_Down_Begin.uexp" 1113
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Run_Down_Begin.uasset" 1114
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Run_Down_Begin.uexp" 1115
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Up/Coots_Idle_Up_Spritesheet.uasset" 1116
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Up/Coots_Idle_Up_Spritesheet.uexp" 1117
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Up/Coots_Idle_Up_Spritesheet_Sprite_0.uasset" 1118
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Up/Coots_Idle_Up_Spritesheet_Sprite_0.uexp" 1119
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Up/Coots_Idle_Up_Spritesheet_Sprite_1.uasset" 1120
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Up/Coots_Idle_Up_Spritesheet_Sprite_1.uexp" 1121
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Up/Coots_Idle_Up.uasset" 1122
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Up/Coots_Idle_Up.uexp" 1123
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Idle_Up.uasset" 1124
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Idle_Up.uexp" 1125
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Right/Coots_Idle_Right_Spritesheet.uasset" 1126
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Right/Coots_Idle_Right_Spritesheet.uexp" 1127
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Right/Coots_Idle_Right_Spritesheet_Sprite_0.uasset" 1128
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Right/Coots_Idle_Right_Spritesheet_Sprite_0.uexp" 1129
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Right/Coots_Idle_Right_Spritesheet_Sprite_1.uasset" 1130
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Right/Coots_Idle_Right_Spritesheet_Sprite_1.uexp" 1131
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Right/Coots_Idle_Right.uasset" 1132
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Right/Coots_Idle_Right.uexp" 1133
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Idle_Right.uasset" 1134
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Idle_Right.uexp" 1135
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Left/Coots_Idle_Left_Spritesheet.uasset" 1136
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Left/Coots_Idle_Left_Spritesheet.uexp" 1137
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Left/Coots_Idle_Left_Spritesheet_Sprite_0.uasset" 1138
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Left/Coots_Idle_Left_Spritesheet_Sprite_0.uexp" 1139
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Left/Coots_Idle_Left_Spritesheet_Sprite_1.uasset" 1140
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Left/Coots_Idle_Left_Spritesheet_Sprite_1.uexp" 1141
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Left/Coots_Idle_Left.uasset" 1142
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Left/Coots_Idle_Left.uexp" 1143
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Idle_Left.uasset" 1144
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Idle_Left.uexp" 1145
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Down/Coots_Idle_Down_Spritesheet.uasset" 1146
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Down/Coots_Idle_Down_Spritesheet.uexp" 1147
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Down/Coots_Idle_Down_Spritesheet_Sprite_0.uasset" 1148
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Down/Coots_Idle_Down_Spritesheet_Sprite_0.uexp" 1149
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Down/Coots_Idle_Down_Spritesheet_Sprite_1.uasset" 1150
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Down/Coots_Idle_Down_Spritesheet_Sprite_1.uexp" 1151
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Down/Coots_Idle_Down.uasset" 1152
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/Idle/Down/Coots_Idle_Down.uexp" 1153
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Idle_Down.uasset" 1154
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Idle_Down.uexp" 1155
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Falling.uasset" 1156
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Falling.uexp" 1157
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Sprites/CC_Coot_Splat_DeathVer.uasset" 1158
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Sprites/CC_Coot_Splat_DeathVer.uexp" 1159
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Sprites/CC_Coot_Splat_DeathVer_Sprite.uasset" 1160
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Sprites/CC_Coot_Splat_DeathVer_Sprite.uexp" 1161
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Splat_Death.uasset" 1162
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Splat_Death.uexp" 1163
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Dead_Splat.uasset" 1164
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Dead_Splat.uexp" 1165
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Sprites/CC_Coots_DeathInt.uasset" 1166
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Sprites/CC_Coots_DeathInt.uexp" 1167
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Sprites/CC_Coots_DeathInt_Sprite.uasset" 1168
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Sprites/CC_Coots_DeathInt_Sprite.uexp" 1169
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Dead.uasset" 1170
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Coots/UniqueSprites/Dead.uexp" 1171
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Dead.uasset" 1172
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/AnimSequences/Dead.uexp" 1173
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/Coots_ABP.uasset" 1174
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/ABP/Coots_ABP.uexp" 1175
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/BP_Coots_ZD.uasset" 1176
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/BP_Coots_ZD.uexp" 1177
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uasset" 1178
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uexp" 1179
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/StarterContent/Textures/T_Water_N.ubulk" 1180
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/StarterContent/Textures/T_Water_N.uasset" 1181
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/StarterContent/Textures/T_Water_N.uexp" 1182
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Materials/Portal/PortalNoise_basecolor.ubulk" 1183
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Materials/Portal/PortalNoise_basecolor.uasset" 1184
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Materials/Portal/PortalNoise_basecolor.uexp" 1185
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 1186
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uexp" 1187
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 1188
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uexp" 1189
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TimeWithSpeedVariable.uasset" 1190
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TimeWithSpeedVariable.uexp" 1191
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Materials/PP/Vignette/PortalSquaresTexture.uasset" 1192
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Materials/PP/Vignette/PortalSquaresTexture.uexp" 1193
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Materials/Portal/M_Portal_View.uasset" 1194
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Materials/Portal/M_Portal_View.uexp" 1195
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/CootsThruPortal.ubulk" 1196
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/CootsThruPortal.uasset" 1197
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/CootsThruPortal.uexp" 1198
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/BP_Portal.uasset" 1199
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/BP_Portal.uexp" 1200
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/RatioedCharacterSprites/Goddi/CC_DE_R_Doggi_1.uasset" 1201
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/RatioedCharacterSprites/Goddi/CC_DE_R_Doggi_1.uexp" 1202
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/RatioedCharacterSprites/Goddi/CC_DE_R_Doggi_2.uasset" 1203
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/RatioedCharacterSprites/Goddi/CC_DE_R_Doggi_2.uexp" 1204
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/RatioedCharacterSprites/Doggod/CC_DE_Doggod_1.uasset" 1205
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/RatioedCharacterSprites/Doggod/CC_DE_Doggod_1.uexp" 1206
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/RatioedCharacterSprites/Doggod/CC_DE_Doggod_2.uasset" 1207
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/RatioedCharacterSprites/Doggod/CC_DE_Doggod_2.uexp" 1208
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/RatioedCharacterSprites/Coots/CC_DE_R_Coots_Hat_1.uasset" 1209
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/RatioedCharacterSprites/Coots/CC_DE_R_Coots_Hat_1.uexp" 1210
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/RatioedCharacterSprites/Coots/CC_DE_R_Coots_Hat_2.uasset" 1211
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/RatioedCharacterSprites/Coots/CC_DE_R_Coots_Hat_2.uexp" 1212
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/RatioedCharacterSprites/Doggor/CC_DE_R_Doggor_1.uasset" 1213
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/RatioedCharacterSprites/Doggor/CC_DE_R_Doggor_1.uexp" 1214
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/RatioedCharacterSprites/Doggor/CC_DE_R_Doggor_2.uasset" 1215
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Dialogue/Images/RatioedCharacterSprites/Doggor/CC_DE_R_Doggor_2.uexp" 1216
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/Doggor_Dominance_-_Lumine.ubulk" 1217
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/Doggor_Dominance_-_Lumine.uasset" 1218
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/Doggor_Dominance_-_Lumine.uexp" 1219
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/MainUI/Images/SpacebarIconDisabled.uasset" 1220
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/MainUI/Images/SpacebarIconDisabled.uexp" 1221
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/MainUI/Images/REFLEXToolTip.uasset" 1222
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/MainUI/Images/REFLEXToolTip.uexp" 1223
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/MainUI/Images/CootsLifeBarFull.uasset" 1224
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/MainUI/Images/CootsLifeBarFull.uexp" 1225
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/MainUI/Images/SpacebarIconReg.uasset" 1226
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/MainUI/Images/SpacebarIconReg.uexp" 1227
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/MainUI/Images/SpacebarIconUsed.uasset" 1228
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/MainUI/Images/SpacebarIconUsed.uexp" 1229
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/MainUI/Images/CootsLifeBarDamaged.uasset" 1230
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/MainUI/Images/CootsLifeBarDamaged.uexp" 1231
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/MainUI/MainUI.uasset" 1232
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/MainUI/MainUI.uexp" 1233
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/DODGE/DODGE__Collective.uasset" 1234
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/DODGE/DODGE__Collective.uexp" 1235
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/Music/CC_ThirdEncounter_FixedDuration.ubulk" 1236
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/Music/CC_ThirdEncounter_FixedDuration.uasset" 1237
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/Music/CC_ThirdEncounter_FixedDuration.uexp" 1238
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/Music/CC_SecondEncounter_FixedDuration.ubulk" 1239
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/Music/CC_SecondEncounter_FixedDuration.uasset" 1240
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/Music/CC_SecondEncounter_FixedDuration.uexp" 1241
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/LevelStartSound.ubulk" 1242
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/LevelStartSound.uasset" 1243
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/LevelStartSound.uexp" 1244
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/Music/CC_First_FixedDuration.ubulk" 1245
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/Music/CC_First_FixedDuration.uasset" 1246
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/Music/CC_First_FixedDuration.uexp" 1247
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/DODGE/DODGE.uasset" 1248
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/DODGE/DODGE.uexp" 1249
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/DialogueEngine.uasset" 1250
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/DialogueEngine.uexp" 1251
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/Sprites/Doggor.uasset" 1252
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/Sprites/Doggor.uexp" 1253
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 1254
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1255
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 1256
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 1257
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1258
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 1259
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 1260
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1261
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 1262
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1263
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 1264
+"../../../Engine/Content/EngineSky/SM_SkySphere.ubulk" 1265
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1266
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 1267
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/BP_MainCamera.uasset" 1268
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/BP_MainCamera.uexp" 1269
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.ubulk" 1270
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1271
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uexp" 1272
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Materials/WW_Level_1_TextureMap.uasset" 1273
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Materials/WW_Level_1_TextureMap.uexp" 1274
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Materials/WW_Level_1_TextureMap_Mat.uasset" 1275
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Materials/WW_Level_1_TextureMap_Mat.uexp" 1276
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1277
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 1278
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/Cinematics/Level1_End.uasset" 1279
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/Cinematics/Level1_End.uexp" 1280
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Hat/CC_HatAcquistionImage.uasset" 1281
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Hat/CC_HatAcquistionImage.uexp" 1282
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/ItemGet.ubulk" 1283
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/ItemGet.uasset" 1284
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/ItemGet.uexp" 1285
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/UIImpact_1.ubulk" 1286
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/UIImpact_1.uasset" 1287
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sound/SFX/UIImpact_1.uexp" 1288
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Hat/HatGet.uasset" 1289
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Widgets/Hat/HatGet.uexp" 1290
+"../../../Engine/Content/EngineSky/M_SimpleSkyDome.uasset" 1291
+"../../../Engine/Content/EngineSky/M_SimpleSkyDome.uexp" 1292
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Hat/CC_CowboyHatObj.uasset" 1293
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Hat/CC_CowboyHatObj.uexp" 1294
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Hat/CC_CowboyHatObj_Sprite.uasset" 1295
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Hat/CC_CowboyHatObj_Sprite.uexp" 1296
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/Sprites/Hat.uasset" 1297
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/Sprites/Hat.uexp" 1298
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Objects/2DEnv_Cactus_ExportSheet_4.uasset" 1299
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Objects/2DEnv_Cactus_ExportSheet_4.uexp" 1300
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Objects/2DEnv_Cactus_ExportSheet_4_Sprite.uasset" 1301
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Objects/2DEnv_Cactus_ExportSheet_4_Sprite.uexp" 1302
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/Obstacles/BP_Obstacle_Cactus1.uasset" 1303
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/Obstacles/BP_Obstacle_Cactus1.uexp" 1304
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Levels/TestingLevel1.uexp" 1305
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Levels/TestingLevel1.umap" 1306
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Levels/TestingLevel1_NoCutscene.uexp" 1307
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Levels/TestingLevel1_NoCutscene.umap" 1308
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Materials/WW_Level_2_TextureMap.uasset" 1309
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Materials/WW_Level_2_TextureMap.uexp" 1310
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Materials/WW_Level_1_TextureMap_Mat1.uasset" 1311
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Materials/WW_Level_1_TextureMap_Mat1.uexp" 1312
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Models/Rock/Material.uasset" 1313
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Models/Rock/Material.uexp" 1314
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Models/Rock/Rock_1.ubulk" 1315
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Models/Rock/Rock_1.uasset" 1316
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Models/Rock/Rock_1.uexp" 1317
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/Obstacles/BP_Obstacle_Rock1.uasset" 1318
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/Obstacles/BP_Obstacle_Rock1.uexp" 1319
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Objects/2DEnv_Cactus_ExportSheet_3.uasset" 1320
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Objects/2DEnv_Cactus_ExportSheet_3.uexp" 1321
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Objects/2DEnv_Cactus_ExportSheet_3_Sprite.uasset" 1322
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Sprites/Objects/2DEnv_Cactus_ExportSheet_3_Sprite.uexp" 1323
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/Obstacles/BP_Obstacle_Cactus2.uasset" 1324
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/Obstacles/BP_Obstacle_Cactus2.uexp" 1325
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Models/Box/PixelBoxTexureStandard.ubulk" 1326
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Models/Box/PixelBoxTexureStandard.uasset" 1327
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Models/Box/PixelBoxTexureStandard.uexp" 1328
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Models/Box/Material.uasset" 1329
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Models/Box/Material.uexp" 1330
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Models/Box/WW_BoxStaticMesh.ubulk" 1331
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Models/Box/WW_BoxStaticMesh.uasset" 1332
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Models/Box/WW_BoxStaticMesh.uexp" 1333
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/Obstacles/BP_Obstacle_Box.uasset" 1334
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Blueprints/Obstacles/BP_Obstacle_Box.uexp" 1335
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Levels/TestingLevel2.uexp" 1336
+"D:/Unreal Projects/Coyboy Coots/Temp/CowboyCoots/CoyboyCoots/Content/A_Levels/TestingLevel2.umap" 1337
